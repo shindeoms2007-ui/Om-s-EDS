@@ -1,3 +1,0 @@
-players=list(map(int,(input().split( ))))
-captain=max(players)
-print("Captain of the team is: ",captain)
